@@ -1,6 +1,5 @@
 {
   "name": "frontend",
-  "proxy": "https://wide-eyed-ox-wear.cyclic.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
